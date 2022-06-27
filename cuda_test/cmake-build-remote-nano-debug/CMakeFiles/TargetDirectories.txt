@@ -1,0 +1,3 @@
+/tmp/tmp.CkLPzKvdx7/cmake-build-remote-nano-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.CkLPzKvdx7/cmake-build-remote-nano-debug/CMakeFiles/untitled.dir
+/tmp/tmp.CkLPzKvdx7/cmake-build-remote-nano-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Nano (5a4c04d8-7def-446b-98eb-63fed928408e)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/michel/Workspaces/CLionProjects/tmp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-dbg-jetson-nano" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote-nano-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="Remote Nano (b3d4f25f-eb96-4910-a9e4-bc2e375d3bd0)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.CkLPzKvdx7" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-remote-nano-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

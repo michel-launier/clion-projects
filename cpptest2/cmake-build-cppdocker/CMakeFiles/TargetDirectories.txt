@@ -1,0 +1,3 @@
+/tmp/cpptest2/cmake-build-cppdocker/CMakeFiles/rebuild_cache.dir
+/tmp/cpptest2/cmake-build-cppdocker/CMakeFiles/edit_cache.dir
+/tmp/cpptest2/cmake-build-cppdocker/CMakeFiles/cpptest2.dir
